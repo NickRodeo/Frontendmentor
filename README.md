@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a challenge about making QR Code Design and really good for beginner like me
@@ -32,8 +30,6 @@ This is a challenge about making QR Code Design and really good for beginner lik
 - CSS
 - Flexbox
 - CSS Grid
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
