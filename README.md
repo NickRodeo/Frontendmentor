@@ -19,7 +19,7 @@ This is a challenge about making QR Code Design and really good for beginner lik
 
 ### Screenshot
 
-![Screenshot of QR Code Card](QR Code Card.png)
+![Screenshot of QR Code Card](images/QRCodeImage.png)
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
